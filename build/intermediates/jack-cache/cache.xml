@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ted\OneDrive\Dev\CryptChat\core\build\libs\core-0.1.jar"
+        revision="25.0.2"
+        sha1="7cef0234e6744070864d1f960b3975b782891f16">
+        <dex dex="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\core-0.1-5417d9ccd9a31eb1acb5153be3163ee6972bb196.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ted\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.5\71eba1332b3c2436d3b8e24296a0feb1c01d9e67\gdx-freetype-1.9.5.jar"
+        revision="25.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gdx-freetype-1.9.5-245033806c6417496bbf9950dc6ced57d5c42369.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ted\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gdx-1.9.5-f3c56d8cb82673dc374dd03687cd38ab1f327c88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ted\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gdx-backend-android-1.9.5-db28416a227ed57fd96a1fa78d79ddb54839b7a1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Jan 05 13:51:04 EST 2017
+2.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\cryptchat.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug
+6.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug\\160421.dat
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug\\170104.dat
+7.set=ASSET
+count=9
+0.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug
+1.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug\\fonts\\arial.ttf
+1.set=ASSET
+7.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug
+2.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ASSET
+0.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug\\badlogic.jpg
+3.set=ASSET
+1.base=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\assets\\debug
+4.file=C\:\\Users\\Ted\\OneDrive\\Dev\\CryptChat\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\textbox.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

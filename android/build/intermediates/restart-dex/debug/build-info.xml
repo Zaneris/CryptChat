@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="6673179132864"
+    token="-8788206986298860727"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\outputs\apk\android-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="6673179132864"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ted\OneDrive\Dev\CryptChat\android\build\outputs\apk\android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
